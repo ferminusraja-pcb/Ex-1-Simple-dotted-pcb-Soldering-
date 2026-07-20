@@ -4,7 +4,8 @@
 **Aim:**
 To assemble and solder a simple LED circuit on a dotted (perfboard) PCB, ensuring correct component placement, proper soldering techniques, and successful operation of the LED when connected to a power supply.
 
-<img width="302" height="282" alt="image" src="https://github.com/user-attachments/assets/1c15bf41-83fd-4b73-ac01-a51568458bb4" />
+<img width="1221" height="681" alt="image" src="https://github.com/user-attachments/assets/6d493a1b-aa13-4c4e-a204-e7f41874c0f4" />
+
 
 
 **Components**
