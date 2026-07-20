@@ -1,7 +1,10 @@
 # Ex-1-Simple-dotted-pcb-Soldering-
-Aim:
+
+
+**Aim:**
 To assemble and solder a simple LED circuit on a dotted (perfboard) PCB, ensuring correct component placement, proper soldering techniques, and successful operation of the LED when connected to a power supply.
 
+<img width="765" height="622" alt="image" src="https://github.com/user-attachments/assets/1329a1bd-f089-4595-8da4-5a47619990f9" />
 
 **Components**
 1 × 5 mm LED
