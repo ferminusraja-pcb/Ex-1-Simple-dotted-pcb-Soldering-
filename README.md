@@ -1,12 +1,7 @@
 # Ex-1-Simple-dotted-pcb-Soldering-
 
-
 **Aim:**
 To assemble and solder a simple LED circuit on a dotted (perfboard) PCB, ensuring correct component placement, proper soldering techniques, and successful operation of the LED when connected to a power supply.
-
-<img width="1221" height="681" alt="image" src="https://github.com/user-attachments/assets/6d493a1b-aa13-4c4e-a204-e7f41874c0f4" />
-
-
 
 **Components**
 1 × 5 mm LED
@@ -16,7 +11,6 @@ To assemble and solder a simple LED circuit on a dotted (perfboard) PCB, ensurin
 1 x Switch
 Hook-up wire
 Soldering iron, solder, and side cutters
-
 
 **Soldering Steps**
 Insert the 220 Ω resistor into the perfboard.
@@ -33,9 +27,10 @@ Solder the battery wires:
 Red wire → resistor input.
 Black wire → LED cathode.
 
-
-
 **Tips**
 Use a 220 Ω resistor for 5–9 V supplies. For 3 V, a 100 Ω resistor also works.
 Avoid creating solder bridges between adjacent holes unless they are meant to be connected.
 If the LED doesn't light, reverse its orientation and check your solder joints.
+
+**Output**
+Upload your final Soldered board image 
